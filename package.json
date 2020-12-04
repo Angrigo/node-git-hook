@@ -4,6 +4,9 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
+    "@types/cors": "^2.8.8",
+    "@types/express": "^4.17.9",
+    "@types/mkdirp": "^1.0.1",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "mkdirp": "^1.0.4",
